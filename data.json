@@ -1,0 +1,468 @@
+{
+	"brand": "all",
+	"children": [{
+			"size": 19,
+			"brand": "2 lips too"
+		},
+		{
+			"size": 670,
+			"brand": "a2 by aerosoles"
+		},
+		{
+			"size": 95,
+			"brand": "adidas"
+		},
+		{
+			"size": 5,
+			"brand": "adidas outdoor"
+		},
+		{
+			"size": 21,
+			"brand": "altra"
+		},
+		{
+			"size": 3,
+			"brand": "andrew geller"
+		},
+		{
+			"size": 183,
+			"brand": "apt. 9"
+		},
+		{
+			"size": 3,
+			"brand": "arc'teryx"
+		},
+		{
+			"size": 130,
+			"brand": "asics"
+		},
+		{
+			"size": 10,
+			"brand": "astral"
+		},
+		{
+			"size": 1,
+			"brand": "betula by birkenstock"
+		},
+		{
+			"size": 6,
+			"brand": "birkenstock"
+		},
+		{
+			"size": 1,
+			"brand": "bogs"
+		},
+		{
+			"size": 37,
+			"brand": "brinley co."
+		},
+		{
+			"size": 39,
+			"brand": "brinley co. collection"
+		},
+		{
+			"size": 19,
+			"brand": "brooks"
+		},
+		{
+			"size": 144,
+			"brand": "candies"
+		},
+		{
+			"size": 1,
+			"brand": "carrini"
+		},
+		{
+			"size": 2,
+			"brand": "chaco"
+		},
+		{
+			"size": 39,
+			"brand": "clarks"
+		},
+		{
+			"size": 1,
+			"brand": "corkys"
+		},
+		{
+			"size": 315,
+			"brand": "croft barrow"
+		},
+		{
+			"size": 1,
+			"brand": "daniel green"
+		},
+		{
+			"size": 1,
+			"brand": "danskin now"
+		},
+		{
+			"size": 4,
+			"brand": "dansko"
+		},
+		{
+			"size": 58,
+			"brand": "dolce by mojo moxy"
+		},
+		{
+			"size": 337,
+			"brand": "dr. scholls"
+		},
+		{
+			"size": 1,
+			"brand": "dr. scholl's"
+		},
+		{
+			"size": 2,
+			"brand": "earth spirit"
+		},
+		{
+			"size": 56,
+			"brand": "eastland"
+		},
+		{
+			"size": 585,
+			"brand": "easy street"
+		},
+		{
+			"size": 1,
+			"brand": "ellie shoes"
+		},
+		{
+			"size": 4,
+			"brand": "faded glory"
+		},
+		{
+			"size": 4,
+			"brand": "fergalicious"
+		},
+		{
+			"size": 23,
+			"brand": "fila"
+		},
+		{
+			"size": 1,
+			"brand": "forever collectibles"
+		},
+		{
+			"size": 1,
+			"brand": "forever young"
+		},
+		{
+			"size": 2,
+			"brand": "free people"
+		},
+		{
+			"size": 8,
+			"brand": "frye"
+		},
+		{
+			"size": 1,
+			"brand": "genuine dickies"
+		},
+		{
+			"size": 2,
+			"brand": "henry ferrera"
+		},
+		{
+			"size": 2,
+			"brand": "herstar"
+		},
+		{
+			"size": 7,
+			"brand": "hoka one one"
+		},
+		{
+			"size": 1,
+			"brand": "ib non-slip"
+		},
+		{
+			"size": 10,
+			"brand": "inov 8"
+		},
+		{
+			"size": 24,
+			"brand": "jennifer lopez"
+		},
+		{
+			"size": 2182,
+			"brand": "journee collection"
+		},
+		{
+			"size": 1,
+			"brand": "kaanas"
+		},
+		{
+			"size": 22,
+			"brand": "keds"
+		},
+		{
+			"size": 2,
+			"brand": "keen"
+		},
+		{
+			"size": 23,
+			"brand": "kisses by 2 lips too"
+		},
+		{
+			"size": 18,
+			"brand": "koolaburra by ugg"
+		},
+		{
+			"size": 10,
+			"brand": "k-swiss"
+		},
+		{
+			"size": 6,
+			"brand": "laredo"
+		},
+		{
+			"size": 8,
+			"brand": "la sportiva"
+		},
+		{
+			"size": 69,
+			"brand": "lc lauren conrad"
+		},
+		{
+			"size": 1593,
+			"brand": "lifestride"
+		},
+		{
+			"size": 7,
+			"brand": "lowa"
+		},
+		{
+			"size": 5,
+			"brand": "lugz"
+		},
+		{
+			"size": 84,
+			"brand": "madden nyc"
+		},
+		{
+			"size": 2,
+			"brand": "mammut"
+		},
+		{
+			"size": 13,
+			"brand": "merrell"
+		},
+		{
+			"size": 1,
+			"brand": "mlb"
+		},
+		{
+			"size": 3,
+			"brand": "mo mo"
+		},
+		{
+			"size": 19,
+			"brand": "muk luks"
+		},
+		{
+			"size": 8,
+			"brand": "native shoes"
+		},
+		{
+			"size": 1,
+			"brand": "naturalizer"
+		},
+		{
+			"size": 107,
+			"brand": "naturalsoul by naturalizer"
+		},
+		{
+			"size": 267,
+			"brand": "new balance"
+		},
+		{
+			"size": 464,
+			"brand": "nike"
+		},
+		{
+			"size": 1,
+			"brand": "nyla"
+		},
+		{
+			"size": 1,
+			"brand": "olivia miller"
+		},
+		{
+			"size": 14,
+			"brand": "olukai"
+		},
+		{
+			"size": 2,
+			"brand": "on footwear"
+		},
+		{
+			"size": 1,
+			"brand": "otzshoes"
+		},
+		{
+			"size": 7,
+			"brand": "puma"
+		},
+		{
+			"size": 3,
+			"brand": "qupid"
+		},
+		{
+			"size": 20,
+			"brand": "rampage"
+		},
+		{
+			"size": 5,
+			"brand": "red wing"
+		},
+		{
+			"size": 7,
+			"brand": "reef"
+		},
+		{
+			"size": 1,
+			"brand": "riverberry"
+		},
+		{
+			"size": 11,
+			"brand": "rocky 4eursole"
+		},
+		{
+			"size": 147,
+			"brand": "ryka"
+		},
+		{
+			"size": 1,
+			"brand": "salewa"
+		},
+		{
+			"size": 31,
+			"brand": "salomon"
+		},
+		{
+			"size": 5,
+			"brand": "saucony"
+		},
+		{
+			"size": 4,
+			"brand": "scarpa"
+		},
+		{
+			"size": 26,
+			"brand": "seavees"
+		},
+		{
+			"size": 14,
+			"brand": "seven7"
+		},
+		{
+			"size": 2,
+			"brand": "seychelles footwear"
+		},
+		{
+			"size": 1,
+			"brand": "silver lilly"
+		},
+		{
+			"size": 164,
+			"brand": "simply vera vera wang"
+		},
+		{
+			"size": 336,
+			"brand": "skechers"
+		},
+		{
+			"size": 1,
+			"brand": "sloggers"
+		},
+		{
+			"size": 422,
+			"brand": "so"
+		},
+		{
+			"size": 1,
+			"brand": "soft ones"
+		},
+		{
+			"size": 25,
+			"brand": "soft style by hush puppies"
+		},
+		{
+			"size": 1,
+			"brand": "softwalk"
+		},
+		{
+			"size": 9,
+			"brand": "soludos"
+		},
+		{
+			"size": 229,
+			"brand": "sonoma goods for life"
+		},
+		{
+			"size": 10,
+			"brand": "sperry top-sider"
+		},
+		{
+			"size": 7,
+			"brand": "splendid"
+		},
+		{
+			"size": 79,
+			"brand": "spring step"
+		},
+		{
+			"size": 478,
+			"brand": "style charles by charles david"
+		},
+		{
+			"size": 8,
+			"brand": "sugar"
+		},
+		{
+			"size": 1,
+			"brand": "the north face"
+		},
+		{
+			"size": 3,
+			"brand": "timberland"
+		},
+		{
+			"size": 10,
+			"brand": "toms"
+		},
+		{
+			"size": 10,
+			"brand": "topo athletic"
+		},
+		{
+			"size": 3,
+			"brand": "ugg"
+		},
+		{
+			"size": 3,
+			"brand": "unbranded"
+		},
+		{
+			"size": 14,
+			"brand": "under armour"
+		},
+		{
+			"size": 55,
+			"brand": "unionbay"
+		},
+		{
+			"size": 1,
+			"brand": "unique bargains"
+		},
+		{
+			"size": 30,
+			"brand": "vans"
+		},
+		{
+			"size": 1,
+			"brand": "victoria k."
+		}
+	]
+}

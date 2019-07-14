@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins|Lato&display=swap');
+html, body {
+  margin: 0;
+  padding: 0;
+}
+html *, body * {
+  font-family: 'Lato', sans-serif;
+}
+h1 {
+  color: #5f27cd;
+}
+h1, svg * {
+  font-family: 'Poppins', sans-serif;
+}
+.container {
+  max-width: 1260px;
+  display: block;
+  margin: 0 auto;
+}
+.source {
+  font-size: .9em;
+}
+.source span {
+  font-weight: bold;
+}
+a {
+  font-style: italic;
+  text-decoration: none;
+}
+
+
+
